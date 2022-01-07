@@ -97,6 +97,17 @@ margin:auto;
   right: 300px;
   top: 40px;
 }
+.zion{
+  width: 5%;
+  height: auto;
+  right: 50px;
+  bottom: 30px;
+  position:fixed;
+}
+.possition{
+
+}
+
 
 .driver{
   width: 20%;
@@ -174,11 +185,11 @@ btn {
 }
 
 .whatsapp{
-width: 4%;
+width: 2%;
 }
 .facebook{
-  width: 4%;
+  width: 2%;
 }
 .linkedin{
-  width: 4%;
+  width: 2%;
 }
